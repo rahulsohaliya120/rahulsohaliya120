@@ -30,6 +30,7 @@
 ### 🧬 **Data & Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-4285F4?logo=google-chrome&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![UserDefaults](https://img.shields.io/badge/UserDefaults-999999?logo=apple&logoColor=white)
@@ -41,9 +42,15 @@
 ![Multipart Uploads](https://img.shields.io/badge/Multipart_Uploads-FFD60A?logo=swift&logoColor=black)
 ![URLRequestBuilder](https://img.shields.io/badge/URLRequest_Builder-34C759?logo=swift&logoColor=white)
 
+#### 📱 Frameworks & Integrations  
+![MapKit](https://img.shields.io/badge/MapKit-0A84FF?logo=apple&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Firebase%20Messaging-FF6F00?logo=firebase&logoColor=white)
+![App Clips](https://img.shields.io/badge/App%20Clips-007AFF?logo=apple&logoColor=white)
+![WidgetKit](https://img.shields.io/badge/WidgetKit-5E5E5E?logo=apple&logoColor=white)
+![SiriKit](https://img.shields.io/badge/SiriKit-7B68EE?logo=apple&logoColor=white)
+
 ### 🩺 **Health & Sensor APIs**
 ![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-007AFF?logo=apple&logoColor=white)
 ![CoreLocation](https://img.shields.io/badge/CoreLocation-34C759?logo=apple&logoColor=white)
 
 ### 🔮 **AI / ML & Vision**
