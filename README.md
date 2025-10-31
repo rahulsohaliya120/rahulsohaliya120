@@ -22,7 +22,6 @@
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-007AFF?logo=swift&logoColor=white)
-![Concurrency](https://img.shields.io/badge/Concurrency-FF8C00?logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-0D96F6?logo=apple&logoColor=white)
 ![CoreData](https://img.shields.io/badge/CoreData-3478F6?logo=apple&logoColor=white)
 ![Swift Packages](https://img.shields.io/badge/Swift_Packages-FA7343?logo=swift&logoColor=white)
