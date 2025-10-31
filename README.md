@@ -22,7 +22,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-007AFF?logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
